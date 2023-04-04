@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0%;
+    background-color:orange;
+}
+header h1
+{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+header{
+    padding: 40px;
+   background-color: rgb(red, green, blue);
+}
+nav{ 
+    background-color:purple;
+    overflow: hidden;
+}
+nav a{
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    float: left;
+    color: white;
+}
+main {
+    background-color: aliceblue;
+    text-align: center;
+}
+h2{
+    padding: 20px;
+    
+}
+section{
+    min-height: 100vh;
+}
+footer{
+    text-decoration: none;
+    text-align: center;
+    padding: 20px;
+    color: white;
+    float: left;
+}
